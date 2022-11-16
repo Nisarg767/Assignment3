@@ -1,0 +1,14 @@
+We have used the wiki-Vote dataset available from the SNAP repository which contains Wikipedia voting data till January 2008.
+The dataset contains 7115 nodes and 103689 edges which verifies the graph that we created since we got the same results.
+
+We intrepreted the following results from the output of the given queries 
+
+1. The top 5 nodes with the highest outdegree shown by the outdegree results are the top 5 users who vote more than others.
+
+2. The top 5 nodes with the highest indegree shown by the indegree results are the top 5 users who got most number of votes.
+
+3. The page rank of top 5 nodes having the highest page rank of all shows the most important users based on the outdegree and indegree values.
+
+4. The output of the connected component algorithm shows the top 5 users who have the largest connected component membership.
+
+5. The triangle algorithm finds out the number of triangles passing through each node in the graph and the top 5 nodes with more number of triangles are displayed showing the nodes with maximum connectivity

@@ -1,0 +1,41 @@
+Files included in Question2 folder:
+Readme
+Q2_arguments.txt (has 2 arguments input file link(dataset)and output links)
+Q2_summary 
+Output File (which includes the links to the output of the given queries)
+
+
+To run the Q2 follow the following steps:
+
+1. Open the databricks link of the code which is at the end of the file and import it to your data bricks cluster
+
+2. Upload the Q2_arguments.txt file provided to the databricks table 
+
+3. Run the program to get the results which are displayed on the console as well as uploaded to Amazon S3 directly all the links to the dataset and the outputs are provided below
+
+Useful Links:
+
+Databricks Link:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1416017675422998/1123768336516236/3132873194911603/latest.html
+
+Dataset Link:
+s3://bigdataassign3/Wiki-Vote.txt
+https://bigdataassign3.s3.us-east-2.amazonaws.com/Wiki-Vote.txt
+
+Output Links:
+
+	Object url:
+		https://bigdataassign3.s3.us-east-2.amazonaws.com/output/out_degree.csv
+		https://bigdataassign3.s3.us-east-2.amazonaws.com/output/in_degree.csv
+		https://bigdataassign3.s3.us-east-2.amazonaws.com/output/page_rank.csv
+		https://bigdataassign3.s3.us-east-2.amazonaws.com/output/connected_components.csv
+		https://bigdataassign3.s3.us-east-2.amazonaws.com/output/triangle_count.csv
+		
+	S3 url:
+		s3://bigdataassign3/output/out_degree.csv
+		s3://bigdataassign3/output/in_degree.csv
+		s3://bigdataassign3/output/page_rank.csv
+		s3://bigdataassign3/output/connected_components.csv
+		s3://bigdataassign3/output/triangle_count.csv
+		
+		

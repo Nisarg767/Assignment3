@@ -1,0 +1,2 @@
+s3://bigdataassign3/Wiki-Vote.txt
+/mnt/bigdataassign3/output

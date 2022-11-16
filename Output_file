@@ -1,0 +1,15 @@
+Output Links:
+
+	Object url:
+		https://bigdataassign3.s3.us-east-2.amazonaws.com/output/out_degree.csv
+		https://bigdataassign3.s3.us-east-2.amazonaws.com/output/in_degree.csv
+		https://bigdataassign3.s3.us-east-2.amazonaws.com/output/page_rank.csv
+		https://bigdataassign3.s3.us-east-2.amazonaws.com/output/connected_components.csv
+		https://bigdataassign3.s3.us-east-2.amazonaws.com/output/triangle_count.csv
+		
+	S3 url:
+		s3://bigdataassign3/output/out_degree.csv
+		s3://bigdataassign3/output/in_degree.csv
+		s3://bigdataassign3/output/page_rank.csv
+		s3://bigdataassign3/output/connected_components.csv
+		s3://bigdataassign3/output/triangle_count.csv
